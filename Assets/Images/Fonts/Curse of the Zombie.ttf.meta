@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eee219b95839f864ebd0e5c2eafc18ca
+timeCreated: 1501371326
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Curse of the Zombie
+  fontNames:
+  - Curse of the Zombie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
